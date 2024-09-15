@@ -39,7 +39,7 @@ El Plan de Cuentas es el ordenamiento y enumeración sistemática de todas las c
 
 El Manual de Cuentas consiste en la estructura del Plan de Cuentas incluyendo el análisis detallado de cada cuenta en particular, con todas sus variantes.
 
-![[Pasted image 20240909182449.png]]
+![](Attachments/Pasted%20image%2020240909182449.png)
 
 Cada cuenta tiene un codigo y estan clasificadas. Dentro de cada categoria hay subcategorias. 
 

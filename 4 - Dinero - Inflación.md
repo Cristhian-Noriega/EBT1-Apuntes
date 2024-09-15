@@ -34,7 +34,7 @@ Hay diferentes tipos de Dinero:
 
 ## Agregados monetarios
 
-![[Pasted image 20240906173704.png]]
+![](Attachments/Pasted%20image%2020240906173704.png)
 
 > ACLARACIÓN: Hay dos tipos de reservas, las reservas y reservas internacionales. Las que suelen ser mencionadas en programas de TV, son reservas internacionales. Las reservas a secas son estas (R). 
 
