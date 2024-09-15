@@ -1,6 +1,4 @@
----
-share: "true"
----
+
 ## Definición de dinero
 
 Es todo activo o bien generalmente aceptado como medio de pago por los agentes económicos para sus intercambios. Es un activo financiero neutro o plenamente liquido, que sirve de plataforma intermedia para optimizar el intercambio de bienes y servicios, evitando las inexactitudes propias del trueque.
