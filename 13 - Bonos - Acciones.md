@@ -131,3 +131,116 @@ Supongamos el siguiente ejemplo sencillo de un posible Proyecto:
 
 
 
+## Principio de valuación de activos
+
+¿Cuánto vale un activo? ¿Cuánto vale una acción, un bono, un proyecto o una oportunidad de negocio? ¿Cómo saber si un precio es alto o bajo para saber si conviene comprar o vender? La forma de responder a estas preguntas es utilizar información obtenida de activos similares cuyos precios son conocidos y comparar.
+
+> Comparar peras con peras y bananas con bananas
+
+---
+
+## Bonos 
+
+Los Bonos son instrumentos de renta fija en los cuales la promesa de dinero que ofrecen es conocida de antemano. Es una promesa de pagos a través del tiempo que hace que una organización o un país pueda obtener fondos para financiarse. 
+
+> La economía mundial se mueve en base a bonos y acciones.
+  
+El Bono está en el pasivo del ente que lo emite y en el activo de quién lo compra.
+
+Instrumento de renta -> activo que me va a generar beneficios. Ingresos.
+
+Instrumento de renta fija -> Lo que genera este activo lo se de antemano. Por eso es fija.
+
+Un bono sirve para generar rendimientos.
+
+> Los bonos son inversamente proporcionales a las tasas de interes. 
+> Si las tasas de interes aumentan, los precios de los bonos bajan y viceversa.
+
+Ejemplo: tasas de interes son del 10% y compro un bono al 10%, y ahora las tasas de interes aumentan al 15%, mi bono pierde valor porque pierde valor de re-venta, porque ahora cualquier persona puede ir a inmovilizar dinero (bono) al 15% y yo inmovilice dinero al 10%
+
+### Bonos vs Prestamos
+
+El bono se utiliza para financiarse el que lo emite, y el que lo recibe gana dinero a futuro. 
+
+En cambio, en un préstamo, el que recibe un préstamo contrae una deuda la cual tiene que pagar. El emisor del prestamo que presta dinero genera condiciones de devolución.  
+
+- **Bonos:** Instrumento negociable, con pagos fijos y términos preestablecidos. Se puede vender en mercados secundarios.
+- **Préstamos:** Generalmente son acuerdos privados con términos que pueden renegociarse y no se comercian en mercados secundarios.
+
+A diferencia de un préstamo tradicional, los bonos son títulos negociables que pueden ser comprados y vendidos en mercados secundarios, lo que les otorga liquidez. Además, aunque el rendimiento es fijo, el valor de mercado del bono puede fluctuar en función de las tasas de interés y otros factores económicos.
+
+## Valuación de Bonos
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdLWFF8r47Qvw3UKWuU4mmWYhMWZt3R3Utm1eUPt8aFKXpg1BbVOHQC8g_IPnFeue3G47ThrgC2Km6QS9o6WiagYRmvil4LrT6ksqEkRjIpzRxFXY6J-ZMkP27ccf0H4FZ8gsNtD5458lXV429Ibyl5AXSuxWp6=s2048?key=d8pgql7Ql227oEHR7mIWTA)
+
+
+> La tasa actual del mercado puede coincidir o no con la tasa del bono.
+
+Cual es la razón de comprar bonos entonces? -> comprar bonos con tasas mas altas que la tasa del mercado actual.
+
+
+## Bonos con clausulas
+
+- Bonos rescatables: el emisor tiene derecho a recomprarlo pagando una suma de dinero y el tenedor está obligado a entregarlo debido a la cláusula que lo compromete. Generalmente el empresario recompra los bonos cuando puede volver a emitirlos a una tasa cupón menor. 
+- Bonos convertible: el tenedor tiene derecho a cambiarlos por acciones de la empresa. 
+- Bonos exentos de impuestos: poseen una situación impositiva ventajosa.
+
+
+## Duration de los bonos
+
+Se denomina Duration a la distancia en el tiempo entre el instante de análisis (generalmente el período inicial) y el baricentro de los ingresos que promete el bono.
+
+Se suele preferir una Duration corta a una Duration larga debido a que el baricentro de los ingresos se encontraría más cerca del bolsillo del tenedor pero puede darse un escenario dónde se sepa de antemano que las tasas de interés bajarán a futuro y ahí es conveniente tener un Bono de Duration largo.
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfWrTJeK1sgMtDOASiz7Ar-NFnooz2WpWyaja05t3ab5aNmTm3BaYbXiwYTS4MilAUzcPZgCuibfQ_LDCezxUkpT3P8NiPyUz11RvgpmnFu6yNm423XfY-_s2Tj5tTcaDU9pTgZ7yuhp14vBXwajx-rx4sRfPg=s2048?key=d8pgql7Ql227oEHR7mIWTA)
+
+
+---
+
+## Acciones
+
+Las Acciones son instrumentos de renta variable en los cuales la promesa de dinero que ofrecen varía en el tiempo y depende de la perfomance de la empresa y de cómo reparten los beneficios. 
+
+Las Acciones están en el pasivo del ente que lo emite y en el activo de quién las compra.
+
+Además, las acciones otorgan a su titular la potestad de votar en la junta de accionistas como también participar de las decisiones económicas de la empresa y disfrutar de sus beneficios.
+
+> Poder de decision en la empresa y obligaciones.
+
+## Principio de valuación de acciones
+
+Una posible manera de evaluar una acción sería simplemente determinar el Precio Por Acción (PPA) a partir del índice PER de una empresa muy similar.
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUf-nKA4GulmcIIuLORc4M4EHyhfbXMXpDauO_fVsjCtj3fCCztiqF6wtjtTMMI9ONZulH2-2RB9R1OeipB8vVT5JB2yWQ0WxuBy09MlqKRxl6-qA2RMddrzyQ_flR4YtFgjCmu9N3vY5J36riq4cWQtiRx0fmOZ=s2048?key=d8pgql7Ql227oEHR7mIWTA)
+
+
+Es importante remarcar que el Precio Por Acción al cual se comercie la acción en el mercado no tiene por qué coincidir con el valor de la acción en los libros contables de la empresa. El mismo podrá ser superior o inferior al valor contable según cuáles sean las expectativas futuras que la acción provoque
+
+Otro modelo de valuación de acciones es el modelo de Gordon que obtiene el precio de la acción calculando el valor presente y los dividendos pronosticados en el tiempo para esa acción.
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUefHC8ScVK93r-insz0jA8VxCIqQoKzw1RNfyC7baZC8kAIgMl0vsWS133rj5INJng5xLMem1nIKQPa40DSxxzXyUOBV_I1i2-HKX93o98bq3aV29rn_H6jDa1nBGRgGOJmlevUUkqHIM5orqnV9mKDij_rr6sL=s2048?key=d8pgql7Ql227oEHR7mIWTA)**
+
+rs representa la tasa esperada de rendimiento que el inversor requiere para estar dispuesto a invertir en esta acción. Una suerte de costo de oportunidad
+
+Cuando la proyección de dividendos se extiende al infinito y, suponiendo una tasa de crecimiento de dividendos constantes (g = growth), calculamos el precio de la acción de la siguiente manera.
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUedNzD-5a18BFa-y2grotLPdzR_XIT_WQyiU8wOBcIfiXsU5kC4DBrVNP8LdRkn3VcUkyjRzX0Jhn69KgzkuvFXfGz5uqAwxPFfkBYiIVzxzAHFGxmO4ve476di0vt4Uz6F5g9fZ9zjvQkE4bIBDtH8ADTM8QDo=s2048?key=d8pgql7Ql227oEHR7mIWTA)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
